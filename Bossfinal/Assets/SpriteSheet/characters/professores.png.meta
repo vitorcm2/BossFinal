@@ -1,0 +1,1268 @@
+fileFormatVersion: 2
+guid: a51869b8dd984694ebec39e8b4c1de89
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: 7323392317486356533
+    second: professores_0
+  - first:
+      213: -6498174279121295666
+    second: professores_1
+  - first:
+      213: -5536119276549621947
+    second: professores_2
+  - first:
+      213: 5169709612470318890
+    second: professores_3
+  - first:
+      213: 2809122626979685400
+    second: professores_4
+  - first:
+      213: -2765878448104678531
+    second: professores_5
+  - first:
+      213: -2520309261492612045
+    second: professores_6
+  - first:
+      213: 3448205664848314385
+    second: professores_7
+  - first:
+      213: 1929074466765955067
+    second: professores_8
+  - first:
+      213: 4740659466896024582
+    second: professores_12
+  - first:
+      213: 4515803207569542184
+    second: professores_13
+  - first:
+      213: -8549418970278457328
+    second: professores_14
+  - first:
+      213: -4906694479085164212
+    second: professores_15
+  - first:
+      213: 3312005896008156366
+    second: professores_16
+  - first:
+      213: 8657999276408629322
+    second: professores_17
+  - first:
+      213: -4055676793047847347
+    second: professores_21
+  - first:
+      213: -3381535996547866390
+    second: professores_22
+  - first:
+      213: 4889828343366738632
+    second: professores_23
+  - first:
+      213: 3203748083353945710
+    second: professores_24
+  - first:
+      213: -8369875561196715571
+    second: professores_25
+  - first:
+      213: 992445091175884200
+    second: professores_26
+  - first:
+      213: 2914706669415584711
+    second: professores_29
+  - first:
+      213: -233441703281071888
+    second: professores_30
+  - first:
+      213: -3931301469032315118
+    second: professores_31
+  - first:
+      213: -3735079538509139807
+    second: professores_32
+  - first:
+      213: 6583259743404836300
+    second: professores_33
+  - first:
+      213: -1816829327499644553
+    second: professores_34
+  - first:
+      213: 6301374587117892161
+    second: professores_35
+  - first:
+      213: -3231478808093613442
+    second: professores_36
+  - first:
+      213: 3083996151066829698
+    second: professores_37
+  - first:
+      213: 8379810276661945174
+    second: professores_38
+  - first:
+      213: -5772450310793893021
+    second: professores_39
+  - first:
+      213: 4674833916016297809
+    second: professores_40
+  - first:
+      213: 3998372407571738646
+    second: professores_41
+  - first:
+      213: 7680399145092163237
+    second: professores_42
+  - first:
+      213: 7425044241268183210
+    second: professores_43
+  - first:
+      213: 4701179216504873769
+    second: professores_44
+  - first:
+      213: 9020704124496316595
+    second: professores_45
+  - first:
+      213: -821480364948551489
+    second: professores_46
+  - first:
+      213: 8770698274608416558
+    second: professores_47
+  - first:
+      213: -837516496539493882
+    second: professores_48
+  - first:
+      213: 1497230002453909676
+    second: professores_49
+  - first:
+      213: 5636794416253056105
+    second: professores_50
+  - first:
+      213: -7681259765916391452
+    second: professores_51
+  - first:
+      213: -7517782582719173345
+    second: professores_52
+  - first:
+      213: -8162244438820140216
+    second: professores_53
+  - first:
+      213: 2478166386334663619
+    second: professores_54
+  - first:
+      213: 3273894170743522153
+    second: professores_55
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: professores_0
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 716
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5385992038ae1a560800000000000000
+      internalID: 7323392317486356533
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_1
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 716
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec625640ce8d1d5a0800000000000000
+      internalID: -6498174279121295666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_2
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 716
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 547311f79d0cb23b0800000000000000
+      internalID: -5536119276549621947
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_3
+      rect:
+        serializedVersion: 2
+        x: 657
+        y: 715
+        width: 50
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a273733908f7eb740800000000000000
+      internalID: 5169709612470318890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_4
+      rect:
+        serializedVersion: 2
+        x: 725
+        y: 719
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 814e2a755220cf620800000000000000
+      internalID: 2809122626979685400
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_5
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 717
+        width: 52
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d7bdfc8a430ad99d0800000000000000
+      internalID: -2765878448104678531
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_6
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 624
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3341b907410160dd0800000000000000
+      internalID: -2520309261492612045
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_7
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 624
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 11006c568cc7adf20800000000000000
+      internalID: 3448205664848314385
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_8
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 624
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bff5cd0c10375ca10800000000000000
+      internalID: 1929074466765955067
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_12
+      rect:
+        serializedVersion: 2
+        x: 662
+        y: 624
+        width: 46
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6042e650ba43ac140800000000000000
+      internalID: 4740659466896024582
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_13
+      rect:
+        serializedVersion: 2
+        x: 730
+        y: 624
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 82c80ce671b5bae30800000000000000
+      internalID: 4515803207569542184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_14
+      rect:
+        serializedVersion: 2
+        x: 802
+        y: 624
+        width: 47
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 01011984ebc5a5980800000000000000
+      internalID: -8549418970278457328
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_15
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 532
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c4922c83e5be7ebb0800000000000000
+      internalID: -4906694479085164212
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_16
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 532
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ec4c09d80db96fd20800000000000000
+      internalID: 3312005896008156366
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_17
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 532
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a48ece74874672870800000000000000
+      internalID: 8657999276408629322
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_21
+      rect:
+        serializedVersion: 2
+        x: 656
+        y: 532
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d4e6692d17757b7c0800000000000000
+      internalID: -4055676793047847347
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_22
+      rect:
+        serializedVersion: 2
+        x: 729
+        y: 532
+        width: 49
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ae061926dee5211d0800000000000000
+      internalID: -3381535996547866390
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_23
+      rect:
+        serializedVersion: 2
+        x: 797
+        y: 532
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c2e20b88f82cd340800000000000000
+      internalID: 4889828343366738632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_24
+      rect:
+        serializedVersion: 2
+        x: 16
+        y: 435
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e66862a58eff57c20800000000000000
+      internalID: 3203748083353945710
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_25
+      rect:
+        serializedVersion: 2
+        x: 85
+        y: 436
+        width: 54
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dc185a8c58a38db80800000000000000
+      internalID: -8369875561196715571
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_26
+      rect:
+        serializedVersion: 2
+        x: 154
+        y: 435
+        width: 54
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8a56e9e5d8fd5cd00800000000000000
+      internalID: 992445091175884200
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_29
+      rect:
+        serializedVersion: 2
+        x: 658
+        y: 431
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7c35af6e54e137820800000000000000
+      internalID: 2914706669415584711
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_30
+      rect:
+        serializedVersion: 2
+        x: 726
+        y: 436
+        width: 50
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 0f86b28f106a2ccf0800000000000000
+      internalID: -233441703281071888
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_31
+      rect:
+        serializedVersion: 2
+        x: 798
+        y: 432
+        width: 53
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2178b5194263179c0800000000000000
+      internalID: -3931301469032315118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_32
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 339
+        width: 51
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1a03553f2f45a2cc0800000000000000
+      internalID: -3735079538509139807
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_33
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 338
+        width: 50
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc546c56bdf6c5b50800000000000000
+      internalID: 6583259743404836300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_34
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 337
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7713fd44a5359c6e0800000000000000
+      internalID: -1816829327499644553
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_35
+      rect:
+        serializedVersion: 2
+        x: 442
+        y: 337
+        width: 52
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 142f5d50dcaf27750800000000000000
+      internalID: 6301374587117892161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_36
+      rect:
+        serializedVersion: 2
+        x: 516
+        y: 339
+        width: 48
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e72a068252b7723d0800000000000000
+      internalID: -3231478808093613442
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_37
+      rect:
+        serializedVersion: 2
+        x: 583
+        y: 339
+        width: 49
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 283a201e82e8cca20800000000000000
+      internalID: 3083996151066829698
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_38
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 246
+        width: 52
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6536a996c011b4470800000000000000
+      internalID: 8379810276661945174
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_39
+      rect:
+        serializedVersion: 2
+        x: 299
+        y: 244
+        width: 51
+        height: 70
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 36b698da60324efa0800000000000000
+      internalID: -5772450310793893021
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_40
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 246
+        width: 49
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1578914ada850e040800000000000000
+      internalID: 4674833916016297809
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_41
+      rect:
+        serializedVersion: 2
+        x: 438
+        y: 244
+        width: 55
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 610790935821d7730800000000000000
+      internalID: 3998372407571738646
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_42
+      rect:
+        serializedVersion: 2
+        x: 511
+        y: 243
+        width: 53
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5a6ae687452469a60800000000000000
+      internalID: 7680399145092163237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_43
+      rect:
+        serializedVersion: 2
+        x: 581
+        y: 243
+        width: 56
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0995ad56e0b0760800000000000000
+      internalID: 7425044241268183210
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_44
+      rect:
+        serializedVersion: 2
+        x: 232
+        y: 150
+        width: 46
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 923e839e691fd3140800000000000000
+      internalID: 4701179216504873769
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_45
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 149
+        width: 48
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3b801848b9aff2d70800000000000000
+      internalID: 9020704124496316595
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_46
+      rect:
+        serializedVersion: 2
+        x: 372
+        y: 150
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb88841e5f38994f0800000000000000
+      internalID: -821480364948551489
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_47
+      rect:
+        serializedVersion: 2
+        x: 444
+        y: 147
+        width: 51
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e278a229c97c7b970800000000000000
+      internalID: 8770698274608416558
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_48
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 150
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 60adb3a0f2b8064f0800000000000000
+      internalID: -837516496539493882
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_49
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 149
+        width: 49
+        height: 65
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ca0925b21ca37c410800000000000000
+      internalID: 1497230002453909676
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_50
+      rect:
+        serializedVersion: 2
+        x: 230
+        y: 52
+        width: 49
+        height: 68
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9643ba418aae93e40800000000000000
+      internalID: 5636794416253056105
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_51
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 53
+        width: 51
+        height: 69
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7ad01a0fea66590800000000000000
+      internalID: -7681259765916391452
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_52
+      rect:
+        serializedVersion: 2
+        x: 375
+        y: 52
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1da76a62987ba790800000000000000
+      internalID: -7517782582719173345
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_53
+      rect:
+        serializedVersion: 2
+        x: 445
+        y: 53
+        width: 45
+        height: 67
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 84bc736ade1e9be80800000000000000
+      internalID: -8162244438820140216
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_54
+      rect:
+        serializedVersion: 2
+        x: 514
+        y: 55
+        width: 48
+        height: 66
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3c38acfc237346220800000000000000
+      internalID: 2478166386334663619
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: professores_55
+      rect:
+        serializedVersion: 2
+        x: 587
+        y: 54
+        width: 48
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 963c36707653f6d20800000000000000
+      internalID: 3273894170743522153
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
