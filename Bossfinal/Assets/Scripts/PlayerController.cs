@@ -12,19 +12,23 @@ public class PlayerController : MonoBehaviour
 
     public Animator animator;
 
+    Vector3 characterScaleoriginal;
 
 
     void Start()
     {
         movePoint.parent = null;
+        characterScaleoriginal = transform.localScale;
     }
 
     void Update()
     {
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
+        transform.localScale = characterScaleoriginal;
 
         transform.position = Vector3.MoveTowards(transform.position, movePoint.position, speed * Time.deltaTime);
+        Vector3 characterScale = transform.localScale;
 
         if( Vector3.Distance(transform.position, movePoint.position) <= 0.05f)
         {
@@ -34,17 +38,29 @@ public class PlayerController : MonoBehaviour
                 animator.SetBool("IsHorizontal", true);
                 animator.SetBool("Isvertical", false);
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f),0.2f, whatStopMovement)){
+                    if (Input.GetAxisRaw("Horizontal") < 0){
+                        characterScale.x = -1*characterScale.x;
+                        transform.localScale = characterScale;
+                    } else {
+                        transform.localScale = characterScaleoriginal;
+                    }
                     movePoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
+                    
+
+
                 }
             }
             else if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1)
-            {
+            {   
                 animator.SetBool("IsHorizontal", false);
                 animator.SetBool("Isvertical", true);
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"),0f),0.2f, whatStopMovement)){
                     movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
                 }
             }
+            
+            
+            
         }
     }
 }
