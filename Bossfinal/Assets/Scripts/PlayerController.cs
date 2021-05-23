@@ -13,16 +13,27 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
 
     Vector3 characterScaleoriginal;
+    private bool playerEntered;
+	private bool showInteractMsg;
+	private GUIStyle guiStyle;
+	private string msg;
+    public FontStyle Fonte;
+    GameManager gm;
 
 
     void Start()
     {
+        gm = GameManager.GetInstance();
         movePoint.parent = null;
         characterScaleoriginal = transform.localScale;
+
+        setupGui();
+
     }
 
     void Update()
     {
+        if (gm.gameState != GameManager.GameState.GAME) return;
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         transform.localScale = characterScaleoriginal;
@@ -57,11 +68,52 @@ public class PlayerController : MonoBehaviour
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"),0f),0.2f, whatStopMovement)){
                     movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
                 }
-            }
-            
-            
-            
+            } 
         }
+
+        if (playerEntered){
+            if (Input.GetKeyUp(KeyCode.E))
+            {
+                gm.ChangeState(GameManager.GameState.MENU);
+            }
+        }
+
     }
+
+
+    void OnTriggerEnter2D(Collider2D col)
+    {
+        if(col.gameObject.CompareTag("Professor"))
+            playerEntered = true;
+    }
+
+    void OnTriggerExit2D(Collider2D col)
+    {
+        if(col.gameObject.CompareTag("Professor"))
+            playerEntered = false;
+    }
+
+    #region GUI Config
+
+	//configure the style of the GUI
+	private void setupGui()
+	{
+		guiStyle = new GUIStyle();
+		guiStyle.fontSize = 16;
+		guiStyle.fontStyle = Fonte;
+		guiStyle.normal.textColor = Color.white;
+		msg = "Press E to Talk";
+	}
+
+	void OnGUI()
+	{
+		if (playerEntered)  //show on-screen prompts to user for guide.
+		{
+			GUI.Label(new Rect (50,Screen.height - 50,200,50), msg,guiStyle);
+		}
+	}		
+	//End of GUI Config --------------
+	#endregion
+
 }
 
