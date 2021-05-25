@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.UI;
+using UnityEngine.SceneManagement;
 
 public class DialogueManager : MonoBehaviour
 {
@@ -22,6 +23,7 @@ public class DialogueManager : MonoBehaviour
         {
             dBox.SetActive(false);
             dialogActive = false;
+            SceneManager.LoadScene("ModSimGame");
         }
     }
 
