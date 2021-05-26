@@ -13,7 +13,6 @@ public class PlayerController : MonoBehaviour
     public Animator animator;
 
     Vector3 characterScaleoriginal;
-    private bool playerEntered;
     private bool showInteractMsg;
     private GUIStyle guiStyle;
     private string msg;
@@ -26,8 +25,6 @@ public class PlayerController : MonoBehaviour
         gm = GameManager.GetInstance();
         movePoint.parent = null;
         characterScaleoriginal = transform.localScale;
-
-        setupGui();
 
     }
 
@@ -76,50 +73,13 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (playerEntered)
-        {
-            if (Input.GetKeyUp(KeyCode.E))
-            {
-                gm.ChangeState(GameManager.GameState.MENU);
-            }
+        if(Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME) {
+            gm.ChangeState(GameManager.GameState.PAUSE);
         }
 
     }
 
 
-    void OnTriggerEnter2D(Collider2D col)
-    {
-        if (col.gameObject.CompareTag("Professor"))
-            playerEntered = true;
-    }
-
-    void OnTriggerExit2D(Collider2D col)
-    {
-        if (col.gameObject.CompareTag("Professor"))
-            playerEntered = false;
-    }
-
-    #region GUI Config
-
-    //configure the style of the GUI
-    private void setupGui()
-    {
-        guiStyle = new GUIStyle();
-        guiStyle.fontSize = 16;
-        guiStyle.fontStyle = Fonte;
-        guiStyle.normal.textColor = Color.white;
-        msg = "Press E to Talk";
-    }
-
-    void OnGUI()
-    {
-        if (playerEntered)  //show on-screen prompts to user for guide.
-        {
-            GUI.Label(new Rect(50, Screen.height - 50, 200, 50), msg, guiStyle);
-        }
-    }
-    //End of GUI Config --------------
-    #endregion
 
 }
 

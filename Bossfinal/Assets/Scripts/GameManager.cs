@@ -9,6 +9,9 @@ public class GameManager
     public enum GameState { MENU, GAME, PAUSE, ENDGAME, INSTRUCTIONS };
 
     public GameState gameState { get; private set; }
+
+    public bool lostGDE;
+    public int vidas;
     
 
 
@@ -23,6 +26,8 @@ public class GameManager
    }
    private GameManager()
    {
+       lostGDE = true;
+       vidas = 3;
        gameState = GameState.MENU;
    }
 

@@ -26,4 +26,8 @@ public class UI_MenuPrincipal : MonoBehaviour
   {
       gm.ChangeState(GameManager.GameState.MENU);
   }
+  public void VoltarGAME()
+  {
+      gm.ChangeState(GameManager.GameState.GAME);
+  }
 }
