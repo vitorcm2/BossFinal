@@ -37,7 +37,7 @@ public class GameManager
 
     public void ChangeState(GameState nextState)
     {
-    gameState = nextState;
-    changeStateDelegate();
+        gameState = nextState;
+        changeStateDelegate();
     }
 }

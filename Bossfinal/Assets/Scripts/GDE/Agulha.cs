@@ -30,9 +30,7 @@ public class Agulha : MonoBehaviour {
         } else{
             gm.lostGDE = true;
 			gm.vidas -= 1;
-			if (gm.vidas == 0){
-				SceneManager.LoadScene("SampleScene");
-			}
+			SceneManager.LoadScene("SampleScene");
 			
         }
 		

@@ -9,6 +9,7 @@ public class DialogueManager : MonoBehaviour
     public GameObject dBox;
     public Text dText;
 
+    public AudioSource notification;
     public bool dialogActive;
     // Start is called before the first frame update
     void Start()
@@ -36,6 +37,7 @@ public class DialogueManager : MonoBehaviour
     {
         dialogActive = true;
         dBox.SetActive(true);
+        notification.Play();
         dText.text = dialogue;
     }
 

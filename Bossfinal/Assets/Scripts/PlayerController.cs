@@ -2,6 +2,7 @@
 using System.Collections.Generic;
 using UnityEngine;
 using UnityEngine.Tilemaps;
+using UnityEngine.SceneManagement;
 
 
 public class PlayerController : MonoBehaviour
@@ -72,6 +73,10 @@ public class PlayerController : MonoBehaviour
                 }
             }
         }
+
+        if (gm.vidas == 0){
+				SceneManager.LoadScene("GameOver");
+			}
 
         if(Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME) {
             gm.ChangeState(GameManager.GameState.PAUSE);
