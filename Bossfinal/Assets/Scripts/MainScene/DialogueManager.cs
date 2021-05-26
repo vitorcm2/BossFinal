@@ -23,11 +23,15 @@ public class DialogueManager : MonoBehaviour
         {
             dBox.SetActive(false);
             dialogActive = false;
-            SceneManager.LoadScene("ModSimGame");
-            SceneManager.LoadScene("GDEGame");
+
         }
     }
 
+    public void goToScene(int scene)
+    {
+        SceneManager.LoadScene(scene);
+
+    }
     public void showBox(string dialogue)
     {
         dialogActive = true;
