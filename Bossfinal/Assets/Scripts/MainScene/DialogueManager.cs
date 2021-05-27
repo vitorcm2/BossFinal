@@ -11,11 +11,6 @@ public class DialogueManager : MonoBehaviour
 
     public AudioSource notification;
     public bool dialogActive;
-    // Start is called before the first frame update
-    void Start()
-    {
-
-    }
 
     // Update is called once per frame
     void Update()
@@ -26,6 +21,7 @@ public class DialogueManager : MonoBehaviour
             dialogActive = false;
 
         }
+
     }
 
     public void goToScene(int scene)

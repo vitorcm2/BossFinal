@@ -31,6 +31,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
+        Debug.Log(gm.star);
         if (gm.gameState != GameManager.GameState.GAME) return;
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
@@ -79,6 +80,13 @@ public class PlayerController : MonoBehaviour
             gm.ChangeState(GameManager.GameState.ENDGAME);
             SceneManager.LoadScene("GameOver");
         }
+
+        if (gm.star == 5)
+        {
+            gm.ChangeState(GameManager.GameState.WINGAME);
+            SceneManager.LoadScene("WinOver");
+        }
+
 
         if (Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME)
         {

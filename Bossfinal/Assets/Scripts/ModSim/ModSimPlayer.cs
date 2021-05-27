@@ -13,8 +13,6 @@ public class ModSimPlayer : MonoBehaviour
     public bool isDead = false;
     GameManager gm;
 
-
-
     // Update is called once per frame
 
     void Start()
@@ -62,7 +60,8 @@ public class ModSimPlayer : MonoBehaviour
 
         if (col.tag == "finish")
         {
-
+            gm.winPaulina = true;
+            gm.star++;
             SceneManager.LoadScene("SampleScene");
         }
     }

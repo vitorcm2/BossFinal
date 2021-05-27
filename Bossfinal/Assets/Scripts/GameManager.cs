@@ -7,14 +7,19 @@ public class GameManager
 {
     private static GameManager _instance;
 
-    public enum GameState { MENU, GAME, PAUSE, ENDGAME, INSTRUCTIONS };
+    public enum GameState { MENU, GAME, PAUSE, ENDGAME, INSTRUCTIONS, WINGAME };
 
     public GameState gameState { get; set; }
 
     public bool lostGDE;
     public int vidas;
 
-    public int life;
+    public int star;
+
+
+
+    public bool winDani;
+    public bool winPaulina;
 
 
 
@@ -31,7 +36,10 @@ public class GameManager
     {
         lostGDE = true;
         vidas = 3;
-        life = 0;
+        star = 0;
+
+        winPaulina = false;
+        winDani = false;
         gameState = GameState.MENU;
     }
 
@@ -49,7 +57,10 @@ public class GameManager
     private void Reset()
     {
         lostGDE = true;
+        winPaulina = false;
+        winDani = false;
         vidas = 3;
-        life = 0;
+        star = 0;
+
     }
 }

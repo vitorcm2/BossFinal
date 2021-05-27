@@ -11,9 +11,14 @@ public class DialogHolder : MonoBehaviour
 
     private bool trigger = false;
     private DialogueManager dm;
+
+    GameManager gm;
+    // Start is called before the first frame update
+
     // Start is called before the first frame update
     void Start()
     {
+        gm = GameManager.GetInstance();
         dm = FindObjectOfType<DialogueManager>();
     }
 
@@ -24,8 +29,6 @@ public class DialogHolder : MonoBehaviour
         {
             dm.goToScene(scene);
         }
-
-
     }
 
     private void OnTriggerEnter2D(Collider2D col)
