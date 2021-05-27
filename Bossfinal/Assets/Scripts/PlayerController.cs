@@ -74,11 +74,14 @@ public class PlayerController : MonoBehaviour
             }
         }
 
-        if (gm.vidas == 0){
-				SceneManager.LoadScene("GameOver");
-			}
+        if (gm.vidas == 0)
+        {
+            gm.ChangeState(GameManager.GameState.ENDGAME);
+            SceneManager.LoadScene("GameOver");
+        }
 
-        if(Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME) {
+        if (Input.GetKeyDown(KeyCode.Escape) && gm.gameState == GameManager.GameState.GAME)
+        {
             gm.ChangeState(GameManager.GameState.PAUSE);
         }
 

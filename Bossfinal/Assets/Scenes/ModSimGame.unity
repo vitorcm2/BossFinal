@@ -481,6 +481,10 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 331b3009a973c6041bec10b0691fc343, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  heart:
+  - {fileID: 0}
+  - {fileID: 0}
+  - {fileID: 0}
   rb: {fileID: 1680610582}
   isDead: 0
 --- !u!50 &1680610582
