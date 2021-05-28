@@ -18,6 +18,7 @@ public class PlayerController : MonoBehaviour
     private GUIStyle guiStyle;
     private string msg;
     public FontStyle Fonte;
+    public GameObject ListaTargets;
     GameManager gm;
 
 
@@ -53,15 +54,14 @@ public class PlayerController : MonoBehaviour
                     {
                         characterScale.x = -1 * characterScale.x;
                         transform.localScale = characterScale;
+                        ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * 180);
                     }
                     else
                     {
                         transform.localScale = characterScaleoriginal;
+                        ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * 0);
                     }
                     movePoint.position += new Vector3(Input.GetAxisRaw("Horizontal"), 0f, 0f);
-
-
-
                 }
             }
             else if (Mathf.Abs(Input.GetAxisRaw("Vertical")) == 1)
@@ -71,6 +71,11 @@ public class PlayerController : MonoBehaviour
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.2f, whatStopMovement))
                 {
                     movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
+                    if(Input.GetAxisRaw("Vertical") < 0){
+                        ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * -90);
+                    } else {
+                        ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * 90);
+                    }
                 }
             }
         }

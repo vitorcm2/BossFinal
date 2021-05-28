@@ -6,13 +6,12 @@ public class NPCfollow : MonoBehaviour
 {
     // Start is called before the first frame update
     public float speed;
-    private Transform target;
     private bool to_follow;
+    public Transform target;
 
     public Animator animator;
     void Start()
     {
-        target = GameObject.FindGameObjectWithTag("Target").GetComponent<Transform>();
         to_follow = true;
         speed = 4.5f;
 

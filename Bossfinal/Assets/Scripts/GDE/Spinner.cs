@@ -25,7 +25,7 @@ public class Spinner : MonoBehaviour {
         if (!isStoped){
             if (dificuldade == 1)
             {
-                transform.Rotate (Vector3.forward,  4);
+                transform.Rotate (Vector3.forward,  3);
             } else if (dificuldade == 2)
             {
                 transform.Rotate (Vector3.forward,  7);

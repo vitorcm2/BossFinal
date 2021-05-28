@@ -14,6 +14,7 @@ TagManager:
   - heart1
   - heart
   - heart2
+  - ListaTargets
   layers:
   - Default
   - TransparentFX
