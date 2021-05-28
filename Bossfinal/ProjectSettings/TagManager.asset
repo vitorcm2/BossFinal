@@ -15,6 +15,7 @@ TagManager:
   - heart
   - heart2
   - ListaTargets
+  - PuzzleButton
   layers:
   - Default
   - TransparentFX
