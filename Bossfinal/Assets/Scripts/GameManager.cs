@@ -11,17 +11,17 @@ public class GameManager
 
     public GameState gameState { get; set; }
 
-    public bool lostGDE;
+    public bool lostGDE,lostINSTRU;
     public int vidas;
 
     public int star;
 
 
 
-    public bool winDani;
+    public bool winDani, winCarlinhos;
     public bool winPaulina;
 
-    public bool TimesUPDani;
+    public bool TimesUPDani,TimerInstru;
 
 
 
@@ -43,6 +43,7 @@ public class GameManager
         winPaulina = false;
         winDani = false;
         TimesUPDani = false;
+        TimerInstru = false;
         gameState = GameState.MENU;
     }
 
