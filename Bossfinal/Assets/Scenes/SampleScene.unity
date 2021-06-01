@@ -12636,6 +12636,20 @@ MonoBehaviour:
   speed: 5
   target: {fileID: 0}
   animator: {fileID: 774869328}
+--- !u!114 &774869332
+MonoBehaviour:
+  m_ObjectHideFlags: 0
+  m_CorrespondingSourceObject: {fileID: 0}
+  m_PrefabInstance: {fileID: 0}
+  m_PrefabAsset: {fileID: 0}
+  m_GameObject: {fileID: 774869327}
+  m_Enabled: 1
+  m_EditorHideFlags: 0
+  m_Script: {fileID: 11500000, guid: 51c5a077159675e429307b623b562ad8, type: 3}
+  m_Name: 
+  m_EditorClassIdentifier: 
+  dialogue: Venha para o FabLab fazer a girafa
+  scene: 3
 --- !u!1 &793096980
 GameObject:
   m_ObjectHideFlags: 0

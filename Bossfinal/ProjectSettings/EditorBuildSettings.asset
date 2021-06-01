@@ -15,6 +15,12 @@ EditorBuildSettings:
     path: Assets/Scenes/GDEGame.unity
     guid: 18f6690d1bdf6554db6d71dfcb49c0ac
   - enabled: 1
+    path: Assets/Scenes/NatDes/IntroNatDes.unity
+    guid: e30077c13b0ad8c4c8f67d8f800b7880
+  - enabled: 1
+    path: Assets/Scenes/NatDes/NatDesGame.unity
+    guid: 070273b866bf95747b11aba48d975986
+  - enabled: 1
     path: Assets/Scenes/GameOver.unity
     guid: e9ed1739923ac5b48aa091d041fc2e83
   - enabled: 1

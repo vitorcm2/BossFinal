@@ -21,6 +21,8 @@ public class GameManager
     public bool winDani;
     public bool winPaulina;
 
+    public bool TimesUPDani;
+
 
 
     public static GameManager GetInstance()
@@ -40,6 +42,7 @@ public class GameManager
 
         winPaulina = false;
         winDani = false;
+        TimesUPDani = false;
         gameState = GameState.MENU;
     }
 
