@@ -13,7 +13,7 @@ public class TimesUp : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
-        timeLeft = 10f;
+        timeLeft = 15f;
         gm = GameManager.GetInstance();
         text = GetComponent<Text>();
 

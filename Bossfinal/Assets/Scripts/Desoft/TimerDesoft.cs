@@ -15,7 +15,9 @@ public class TimerDesoft : MonoBehaviour
     {
         gm = GameManager.GetInstance();
         text = GetComponent<Text>();
-        if (gm.star > 2){
+        timeLeft = 15f;
+        if (gm.star > 2)
+        {
             timeLeft = 10f;
         }
 

@@ -43,11 +43,11 @@ public class Typer : MonoBehaviour
 
     void CheckInput()
     {
-        if(Input.anyKeyDown)
+        if (Input.anyKeyDown)
         {
             string keysPressed = Input.inputString;
 
-            if(keysPressed.Length == 1)
+            if (keysPressed.Length == 1)
             {
                 EnterLetter(keysPressed);
             }
@@ -56,7 +56,7 @@ public class Typer : MonoBehaviour
 
     void EnterLetter(string typedLetter)
     {
-        if(IsCorrectLetter(typedLetter))
+        if (IsCorrectLetter(typedLetter))
         {
             RemoveLetter();
 
@@ -77,7 +77,7 @@ public class Typer : MonoBehaviour
 
     void RemoveLetter()
     {
-        string newString = remainingWord.Remove(0,1);
+        string newString = remainingWord.Remove(0, 1);
         SetRemainingWord(newString);
     }
 

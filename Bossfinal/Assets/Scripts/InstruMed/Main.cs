@@ -16,7 +16,8 @@ public class Main : MonoBehaviour
         Instance = this;
         gm = GameManager.GetInstance();
     }
-    public void SwitchChange(int points) {
+    public void SwitchChange(int points)
+    {
         onCount = onCount + points;
         if (onCount == switchCount)
         {
@@ -26,11 +27,12 @@ public class Main : MonoBehaviour
             gm.star++;
             SceneManager.LoadScene("SampleScene");
         }
-        
+
     }
     private void Update()
     {
-        if (gm.TimerInstru){
+        if (gm.TimerInstru)
+        {
             gm.vidas--;
             gm.lostINSTRU = true;
             SceneManager.LoadScene("SampleScene");

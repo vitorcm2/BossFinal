@@ -16,12 +16,12 @@ public class GameManager
 
     public int star;
 
+    public float time;
     public PlayerController playerPosition;
 
-    public Vector3 lastPosition;
+    public static Vector3 lastPosition;
 
-    public bool winDani, winCarlinhos, winRaul;
-    public bool winPaulina;
+    public bool winDani, winCarlinhos, winRaul, winDaniel, winPaulina;
 
     public bool TimesUPDani, TimerInstru, TimerDesoft;
 
@@ -43,12 +43,17 @@ public class GameManager
         lostDESOFT = true;
         vidas = 3;
         star = 0;
+
         winPaulina = false;
         winDani = false;
         winRaul = false;
+        winDaniel = false;
+        winCarlinhos = false;
+
         TimesUPDani = false;
         TimerInstru = false;
         TimerDesoft = false;
+        lastPosition = new Vector3(3, -1.58f, 0);
         gameState = GameState.MENU;
     }
 
@@ -66,10 +71,13 @@ public class GameManager
     private void Reset()
     {
         lostGDE = true;
-        winPaulina = false;
-        winDani = false;
         vidas = 3;
         star = 0;
 
+        winPaulina = false;
+        winDani = false;
+        winRaul = false;
+        winDaniel = false;
+        winCarlinhos = false;
     }
 }

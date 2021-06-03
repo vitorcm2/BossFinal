@@ -62,6 +62,12 @@ public class GameController : MonoBehaviour
                 Debug.Log("perdeu");
                 SceneManager.LoadScene("SampleScene");
             }
+            if (countCorrectGuesses == gameGuesses)
+            {
+                gm.star++;
+                gm.winDaniel = true;
+                SceneManager.LoadScene("SampleScene");
+            }
         }
 
 
@@ -77,7 +83,7 @@ public class GameController : MonoBehaviour
             btns[i].image.sprite = gamePuzzles[i];
 
         }
-        yield return new WaitForSeconds(5f);
+        yield return new WaitForSeconds(2f);
 
         for (int i = 0; i < objects.Length; i++)
         {

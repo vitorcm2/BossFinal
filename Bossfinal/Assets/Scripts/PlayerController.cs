@@ -28,18 +28,21 @@ public class PlayerController : MonoBehaviour
         gm = GameManager.GetInstance();
         movePoint.parent = null;
         characterScaleoriginal = transform.localScale;
+        transform.position = GameManager.lastPosition;
+        movePoint.position = GameManager.lastPosition;
 
     }
 
     void Update()
     {
-        Debug.Log(gm.star);
+        Debug.Log(GameManager.lastPosition);
         if (gm.gameState != GameManager.GameState.GAME) return;
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
         transform.localScale = characterScaleoriginal;
 
         transform.position = Vector3.MoveTowards(transform.position, movePoint.position, speed * Time.deltaTime);
+        GameManager.lastPosition = transform.position;
         Vector3 characterScale = transform.localScale;
 
         if (Vector3.Distance(transform.position, movePoint.position) <= 0.05f)

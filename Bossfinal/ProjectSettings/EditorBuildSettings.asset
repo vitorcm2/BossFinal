@@ -9,7 +9,7 @@ EditorBuildSettings:
     path: Assets/Scenes/SampleScene.unity
     guid: 2cda990e2423bbf4892e6590ba056729
   - enabled: 1
-    path: Assets/Scenes/ModSimGame.unity
+    path: Assets/Scenes/ModSim/ModSimGame.unity
     guid: 54d7c53bb521442469ef470d4af643cc
   - enabled: 1
     path: Assets/Scenes/GDE/GDEGame.unity
@@ -35,4 +35,10 @@ EditorBuildSettings:
   - enabled: 1
     path: Assets/Scenes/GDE/IntroGDE.unity
     guid: 6e555244745d6b140b6eb45342cf823a
+  - enabled: 1
+    path: Assets/Scenes/ModSim/IntrModSim.unity
+    guid: 1db1606c63b9bf04c8e92a888f847cab
+  - enabled: 1
+    path: Assets/Scenes/NatDes/IntroNatDes.unity
+    guid: 694da92d40be6d045a3637bdaa20e02f
   m_configObjects: {}

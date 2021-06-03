@@ -191,8 +191,8 @@ MonoBehaviour:
     m_VerticalOverflow: 0
     m_LineSpacing: 1
   m_Text: "Fazendo a PF de DeSoft n\xE3o \xE9 f\xE1cil! Seu tempo est\xE1 acabando!
-    Aperte ESPA\xE7O o mais r\xE1pido poss\xEDvel para conseguir acabar a prova a
-    tempo!"
+    Digite o que est\xE1 na tela o mais r\xE1pido poss\xEDvel para conseguir acabar
+    a prova a tempo!"
 --- !u!222 &218393305
 CanvasRenderer:
   m_ObjectHideFlags: 0

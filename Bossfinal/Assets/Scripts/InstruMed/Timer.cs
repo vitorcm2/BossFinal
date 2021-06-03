@@ -13,9 +13,11 @@ public class Timer : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        timeLeft = 15f;
         gm = GameManager.GetInstance();
         text = GetComponent<Text>();
-        if (gm.star > 2){
+        if (gm.star > 2)
+        {
             timeLeft = 10f;
         }
 
