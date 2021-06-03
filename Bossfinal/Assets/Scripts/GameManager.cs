@@ -11,17 +11,19 @@ public class GameManager
 
     public GameState gameState { get; set; }
 
-    public bool lostGDE,lostINSTRU,lostDESOFT;
+    public bool lostGDE, lostINSTRU, lostDESOFT;
     public int vidas;
 
     public int star;
 
+    public PlayerController playerPosition;
 
+    public Vector3 lastPosition;
 
     public bool winDani, winCarlinhos, winRaul;
     public bool winPaulina;
 
-    public bool TimesUPDani,TimerInstru,TimerDesoft;
+    public bool TimesUPDani, TimerInstru, TimerDesoft;
 
 
 
@@ -36,11 +38,11 @@ public class GameManager
     }
     private GameManager()
     {
+
         lostGDE = true;
         lostDESOFT = true;
         vidas = 3;
         star = 0;
-
         winPaulina = false;
         winDani = false;
         winRaul = false;

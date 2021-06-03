@@ -38,10 +38,13 @@ public class GameController : MonoBehaviour
         gm.TimesUPDani = false;
         timeLeft = 4f;
 
+
         GetButtons();
         AddListeners();
         AddGamePuzzles();
         Shuffle(gamePuzzles);
+        StartCoroutine("ShowAllPuzzles");
+
         // ShowAllPuzzles();
 
         gameGuesses = gamePuzzles.Count / 2;
@@ -64,7 +67,7 @@ public class GameController : MonoBehaviour
 
     }
 
-    void ShowAllPuzzles()
+    IEnumerator ShowAllPuzzles()
     {
         GameObject[] objects = GameObject.FindGameObjectsWithTag("PuzzleButton");
 
@@ -72,9 +75,29 @@ public class GameController : MonoBehaviour
         for (int i = 0; i < objects.Length; i++)
         {
             btns[i].image.sprite = gamePuzzles[i];
+
+        }
+        yield return new WaitForSeconds(5f);
+
+        for (int i = 0; i < objects.Length; i++)
+        {
+            btns.Add(objects[i].GetComponent<Button>());
+            btns[i].image.sprite = bgImage;
         }
 
+
     }
+    // void ShowAllPuzzles()
+    // {
+    //     GameObject[] objects = GameObject.FindGameObjectsWithTag("PuzzleButton");
+
+
+    //     for (int i = 0; i < objects.Length; i++)
+    //     {
+    //         btns[i].image.sprite = gamePuzzles[i];
+    //     }
+
+    // }
 
     void GetButtons()
     {

@@ -22,6 +22,7 @@ public class PlayerController : MonoBehaviour
     GameManager gm;
 
 
+
     void Start()
     {
         gm = GameManager.GetInstance();
@@ -71,9 +72,12 @@ public class PlayerController : MonoBehaviour
                 if (!Physics2D.OverlapCircle(movePoint.position + new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f), 0.2f, whatStopMovement))
                 {
                     movePoint.position += new Vector3(0f, Input.GetAxisRaw("Vertical"), 0f);
-                    if(Input.GetAxisRaw("Vertical") < 0){
+                    if (Input.GetAxisRaw("Vertical") < 0)
+                    {
                         ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * -90);
-                    } else {
+                    }
+                    else
+                    {
                         ListaTargets.transform.rotation = Quaternion.Euler(Vector3.forward * 90);
                     }
                 }
