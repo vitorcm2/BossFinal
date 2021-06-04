@@ -19,6 +19,7 @@ public class PlayerController : MonoBehaviour
     private string msg;
     public FontStyle Fonte;
     public GameObject ListaTargets;
+    private Rigidbody2D rb;
     GameManager gm;
 
 
@@ -26,6 +27,7 @@ public class PlayerController : MonoBehaviour
     void Start()
     {
         gm = GameManager.GetInstance();
+        rb = GetComponent<Rigidbody2D>();
         movePoint.parent = null;
         characterScaleoriginal = transform.localScale;
         transform.position = GameManager.lastPosition;
@@ -35,7 +37,7 @@ public class PlayerController : MonoBehaviour
 
     void Update()
     {
-        Debug.Log(GameManager.lastPosition);
+        //Debug.Log(GameManager.lastPosition);
         if (gm.gameState != GameManager.GameState.GAME) return;
         animator.SetFloat("Horizontal", Input.GetAxis("Horizontal"));
         animator.SetFloat("Vertical", Input.GetAxis("Vertical"));
@@ -85,6 +87,7 @@ public class PlayerController : MonoBehaviour
                     }
                 }
             }
+            
         }
 
         if (gm.vidas == 0)

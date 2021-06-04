@@ -14,7 +14,7 @@ public class TimeCount : MonoBehaviour
     }
     void Update()
     {
-        Debug.Log(textTimer.text);
+        // Debug.Log(textTimer.text);
         int minutes = Mathf.FloorToInt(gm.time / 60F);
         int seconds = Mathf.FloorToInt(gm.time - (minutes * 60));
         string clockTime = string.Format("{0:00}:{1:00}", minutes, seconds);

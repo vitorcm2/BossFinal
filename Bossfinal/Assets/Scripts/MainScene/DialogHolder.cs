@@ -8,6 +8,9 @@ public class DialogHolder : MonoBehaviour
     public string dialogue;
 
     public int scene;
+    public bool isShowing;
+
+    public GameObject ProfessorAtual;
 
     private bool trigger = false;
     private DialogueManager dm;
@@ -18,6 +21,7 @@ public class DialogHolder : MonoBehaviour
     // Start is called before the first frame update
     void Start()
     {
+        isShowing = true;
         gm = GameManager.GetInstance();
         dm = FindObjectOfType<DialogueManager>();
     }
@@ -25,6 +29,10 @@ public class DialogHolder : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
+        if (gm.winPaulina && ProfessorAtual.name == "Paulina" || gm.winDani && ProfessorAtual.name == "Dani" || gm.winRaul && ProfessorAtual.name == "Raul" || gm.winDaniel && ProfessorAtual.name == "Daniel" || gm.winCarlinhos && ProfessorAtual.name == "Carlinhos" )
+        {
+            isShowing = false;        
+        }
         if (trigger && Input.GetKeyDown(KeyCode.Space))
         {
             dm.goToScene(scene);
@@ -37,8 +45,10 @@ public class DialogHolder : MonoBehaviour
 
         if (col.gameObject.CompareTag("Player"))
         {
-            trigger = true;
-            dm.showBox(dialogue);
+            if (isShowing){
+                trigger = true;
+                dm.showBox(dialogue);
+            }
 
         }
 
