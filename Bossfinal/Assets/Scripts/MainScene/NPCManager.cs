@@ -21,26 +21,26 @@ public class NPCManager : MonoBehaviour
     // Update is called once per frame
     void Update()
     {
-        // if (gm.winDani)
-        // {
-        //     dani.enabled = true;
-        // }
-        // if (gm.winPaulina)
-        // {
-        //     paulina.enabled = true;
-        // }
-        // if (gm.winCarlinhos)
-        // {
-        //     carlinhos.enabled = true;
-        // }
-        // if (gm.winRaul)
-        // {
-        //     raul.enabled = true;
-        // }
-        // if (gm.winDaniel)
-        // {
-        //     daniel.enabled = true;
-        // }
+        if (gm.winDani)
+        {
+            dani.enabled = true;
+        }
+        if (gm.winPaulina)
+        {
+            paulina.enabled = true;
+        }
+        if (gm.winCarlinhos)
+        {
+            carlinhos.enabled = true;
+        }
+        if (gm.winRaul)
+        {
+            raul.enabled = true;
+        }
+        if (gm.winDaniel)
+        {
+            daniel.enabled = true;
+        }
 
     }
 }
