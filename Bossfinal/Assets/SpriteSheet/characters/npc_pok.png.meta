@@ -1,0 +1,2420 @@
+fileFormatVersion: 2
+guid: 888023d09adde0b46949f5283e6c2f08
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4014388216362844179
+    second: npc_pok_0
+  - first:
+      213: -7314669314829135824
+    second: npc_pok_1
+  - first:
+      213: 2970420573375357544
+    second: npc_pok_2
+  - first:
+      213: 6870399689044579484
+    second: npc_pok_3
+  - first:
+      213: -7445162666644549034
+    second: npc_pok_4
+  - first:
+      213: 3064903722225167382
+    second: npc_pok_5
+  - first:
+      213: 3906989094219246892
+    second: npc_pok_6
+  - first:
+      213: -52891614763477708
+    second: npc_pok_7
+  - first:
+      213: -1794783748664988362
+    second: npc_pok_8
+  - first:
+      213: 4416947911567473542
+    second: npc_pok_9
+  - first:
+      213: 1026284856853379840
+    second: npc_pok_10
+  - first:
+      213: 8240882209622473211
+    second: npc_pok_11
+  - first:
+      213: -7352552861448592237
+    second: npc_pok_12
+  - first:
+      213: -545203766953525112
+    second: npc_pok_13
+  - first:
+      213: 1232096528232986179
+    second: npc_pok_14
+  - first:
+      213: 6681155039064002437
+    second: npc_pok_15
+  - first:
+      213: 2404878171984697298
+    second: npc_pok_16
+  - first:
+      213: -3624678825520059762
+    second: npc_pok_17
+  - first:
+      213: 7556445278963635973
+    second: npc_pok_18
+  - first:
+      213: 5945970025036839460
+    second: npc_pok_19
+  - first:
+      213: 7341387350629010529
+    second: npc_pok_20
+  - first:
+      213: 8580281593195813890
+    second: npc_pok_21
+  - first:
+      213: 7199673816058407092
+    second: npc_pok_22
+  - first:
+      213: -3155577533000518597
+    second: npc_pok_23
+  - first:
+      213: -1266977304130191300
+    second: npc_pok_24
+  - first:
+      213: -2554170209177053911
+    second: npc_pok_25
+  - first:
+      213: -4735718107846893718
+    second: npc_pok_26
+  - first:
+      213: -2155412599753859009
+    second: npc_pok_27
+  - first:
+      213: 549247196347087336
+    second: npc_pok_28
+  - first:
+      213: 5591702415855715731
+    second: npc_pok_29
+  - first:
+      213: -539499693510941660
+    second: npc_pok_30
+  - first:
+      213: 1371647121523655617
+    second: npc_pok_31
+  - first:
+      213: -2671156641852766184
+    second: npc_pok_32
+  - first:
+      213: -1321904698502881308
+    second: npc_pok_33
+  - first:
+      213: -4269789205073066815
+    second: npc_pok_34
+  - first:
+      213: 806824084144330188
+    second: npc_pok_35
+  - first:
+      213: 902531861715789527
+    second: npc_pok_36
+  - first:
+      213: -9071619971656100330
+    second: npc_pok_37
+  - first:
+      213: 528141832598206613
+    second: npc_pok_38
+  - first:
+      213: 8173086749191647229
+    second: npc_pok_39
+  - first:
+      213: -6835904762412451546
+    second: npc_pok_40
+  - first:
+      213: -95668655291149624
+    second: npc_pok_41
+  - first:
+      213: 6327192960699800632
+    second: npc_pok_42
+  - first:
+      213: -3333051205400996097
+    second: npc_pok_43
+  - first:
+      213: 2582991550360128666
+    second: npc_pok_44
+  - first:
+      213: -7432695837530194401
+    second: npc_pok_45
+  - first:
+      213: 5381726285331817405
+    second: npc_pok_46
+  - first:
+      213: -1265066539032190485
+    second: npc_pok_47
+  - first:
+      213: -3993564806283675294
+    second: npc_pok_48
+  - first:
+      213: -4237509870991329761
+    second: npc_pok_49
+  - first:
+      213: 5572616064004806632
+    second: npc_pok_50
+  - first:
+      213: -1036713463992775087
+    second: npc_pok_51
+  - first:
+      213: -1341485747120707154
+    second: npc_pok_52
+  - first:
+      213: -6364738153942315077
+    second: npc_pok_53
+  - first:
+      213: 4389865886076385373
+    second: npc_pok_54
+  - first:
+      213: 6748604736501950718
+    second: npc_pok_55
+  - first:
+      213: 7791434613233212241
+    second: npc_pok_56
+  - first:
+      213: -5914434283107699095
+    second: npc_pok_57
+  - first:
+      213: 7884297024069540326
+    second: npc_pok_58
+  - first:
+      213: -6112048331616267544
+    second: npc_pok_59
+  - first:
+      213: 3963293851471872229
+    second: npc_pok_60
+  - first:
+      213: 3380204832717557057
+    second: npc_pok_61
+  - first:
+      213: 1867168689067274196
+    second: npc_pok_62
+  - first:
+      213: 7591504993144242774
+    second: npc_pok_63
+  - first:
+      213: -2993959449832487975
+    second: npc_pok_64
+  - first:
+      213: 268401727789211230
+    second: npc_pok_65
+  - first:
+      213: -7588097527618829201
+    second: npc_pok_66
+  - first:
+      213: 8178024436834322227
+    second: npc_pok_67
+  - first:
+      213: -5382188799565664118
+    second: npc_pok_68
+  - first:
+      213: -9024491980173627006
+    second: npc_pok_69
+  - first:
+      213: 7451779093146337085
+    second: npc_pok_70
+  - first:
+      213: 8785348280634212191
+    second: npc_pok_71
+  - first:
+      213: 7460050550663196842
+    second: npc_pok_72
+  - first:
+      213: -5116874666363692811
+    second: npc_pok_73
+  - first:
+      213: -1062009860587631653
+    second: npc_pok_74
+  - first:
+      213: -8151515365703537227
+    second: npc_pok_75
+  - first:
+      213: 3753495266366974833
+    second: npc_pok_76
+  - first:
+      213: 2457967234593996151
+    second: npc_pok_77
+  - first:
+      213: -2028056376349005181
+    second: npc_pok_78
+  - first:
+      213: -1163910253008513138
+    second: npc_pok_79
+  - first:
+      213: -4071643537819211767
+    second: npc_pok_80
+  - first:
+      213: 6650512294494473618
+    second: npc_pok_81
+  - first:
+      213: 226293361573156334
+    second: npc_pok_82
+  - first:
+      213: 8431816841550314349
+    second: npc_pok_83
+  - first:
+      213: -8839679063681760728
+    second: npc_pok_84
+  - first:
+      213: 7259160101867378002
+    second: npc_pok_85
+  - first:
+      213: -2978809311690030094
+    second: npc_pok_86
+  - first:
+      213: -8821092520623906276
+    second: npc_pok_87
+  - first:
+      213: -9121367920315476912
+    second: npc_pok_88
+  - first:
+      213: 1103166610558762727
+    second: npc_pok_89
+  - first:
+      213: 2954705948381189627
+    second: npc_pok_90
+  - first:
+      213: -2195261228473485971
+    second: npc_pok_91
+  - first:
+      213: -7489458481564678365
+    second: npc_pok_92
+  - first:
+      213: -930011665050984585
+    second: npc_pok_93
+  - first:
+      213: -3134472111015229755
+    second: npc_pok_94
+  - first:
+      213: 2885272999066869318
+    second: npc_pok_95
+  externalObjects: {}
+  serializedVersion: 11
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: -1
+    aniso: -1
+    mipBias: -100
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  applyGammaDecoding: 0
+  platformSettings:
+  - serializedVersion: 3
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 3
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: npc_pok_0
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: defbd25bf270a48c0800000000000000
+      internalID: -4014388216362844179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_1
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 030d82053031d7a90800000000000000
+      internalID: -7314669314829135824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_2
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 862ec8506cd093920800000000000000
+      internalID: 2970420573375357544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_3
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c94d472cd10985f50800000000000000
+      internalID: 6870399689044579484
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_4
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 652d6a730087da890800000000000000
+      internalID: -7445162666644549034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_5
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 61ce00262b9b88a20800000000000000
+      internalID: 3064903722225167382
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_6
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c2d634e81e9683630800000000000000
+      internalID: 3906989094219246892
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_7
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4351d6a4b57144ff0800000000000000
+      internalID: -52891614763477708
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_8
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 63ded2490b5a717e0800000000000000
+      internalID: -1794783748664988362
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_9
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 68bf16c39b62c4d30800000000000000
+      internalID: 4416947911567473542
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_10
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 00bbb1bc3a81e3e00800000000000000
+      internalID: 1026284856853379840
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_11
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 714
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf9326425be7d5270800000000000000
+      internalID: 8240882209622473211
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_12
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3942315c02c76f990800000000000000
+      internalID: -7352552861448592237
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_13
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 880c784001c0f68f0800000000000000
+      internalID: -545203766953525112
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_14
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 346b156b349491110800000000000000
+      internalID: 1232096528232986179
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_15
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f88b81c1b38bc50800000000000000
+      internalID: 6681155039064002437
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_16
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2d71d31b4f7df5120800000000000000
+      internalID: 2404878171984697298
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_17
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e8a2ff300dd82bdc0800000000000000
+      internalID: -3624678825520059762
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_18
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5071e4902f2edd860800000000000000
+      internalID: 7556445278963635973
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_19
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42af0731c34548250800000000000000
+      internalID: 5945970025036839460
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_20
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16cc9c826e8d1e560800000000000000
+      internalID: 7341387350629010529
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_21
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 20c524316a8431770800000000000000
+      internalID: 8580281593195813890
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_22
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4b8a7d0b0316ae360800000000000000
+      internalID: 7199673816058407092
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_23
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 622
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b34fc44e3f22534d0800000000000000
+      internalID: -3155577533000518597
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_24
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c3086d8cadaca6ee0800000000000000
+      internalID: -1266977304130191300
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_25
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 925dd123ab3cd8cd0800000000000000
+      internalID: -2554170209177053911
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_26
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a6f9669c879574eb0800000000000000
+      internalID: -4735718107846893718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_27
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f30254f09af6612e0800000000000000
+      internalID: -2155412599753859009
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_28
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e9b5204a615f9700800000000000000
+      internalID: 549247196347087336
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_29
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 39506ca98b7b99d40800000000000000
+      internalID: 5591702415855715731
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_30
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 42429db13ef4388f0800000000000000
+      internalID: -539499693510941660
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_31
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c3ca9b2ac1190310800000000000000
+      internalID: 1371647121523655617
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_32
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 818c0f6cf252eead0800000000000000
+      internalID: -2671156641852766184
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_33
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4efd0d23ea6a7ade0800000000000000
+      internalID: -1321904698502881308
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_34
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1c482dd1759aeb4c0800000000000000
+      internalID: -4269789205073066815
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_35
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 530
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc517a3da3a623b00800000000000000
+      internalID: 806824084144330188
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_36
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d6aa0842ff668c00800000000000000
+      internalID: 902531861715789527
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_37
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 616591403b12b1280800000000000000
+      internalID: -9071619971656100330
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_38
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5983a03d236545700800000000000000
+      internalID: 528141832598206613
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_39
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: dff25047813ac6170800000000000000
+      internalID: 8173086749191647229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_40
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 629310636dcf121a0800000000000000
+      internalID: -6835904762412451546
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_41
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8c25b396ddd1caef0800000000000000
+      internalID: -95668655291149624
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_42
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 83c1ddf8974bec750800000000000000
+      internalID: 6327192960699800632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_43
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ff6d2e3869f9eb1d0800000000000000
+      internalID: -3333051205400996097
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_44
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9c0d093121a8d320800000000000000
+      internalID: 2582991550360128666
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_45
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f1efc701482c9d890800000000000000
+      internalID: -7432695837530194401
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_46
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: db3e59bfa8bbfaa40800000000000000
+      internalID: 5381726285331817405
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_47
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 438
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: be1e0c37fa4917ee0800000000000000
+      internalID: -1265066539032190485
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_48
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 269b5fda7f10498c0800000000000000
+      internalID: -3993564806283675294
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_49
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f16b95f39375135c0800000000000000
+      internalID: -4237509870991329761
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_50
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e754a409c8e55d40800000000000000
+      internalID: 5572616064004806632
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_51
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15e88d4e89adc91f0800000000000000
+      internalID: -1036713463992775087
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_52
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ea9ee9b02d5126de0800000000000000
+      internalID: -1341485747120707154
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_53
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bbf84edee58eba7a0800000000000000
+      internalID: -6364738153942315077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_54
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d58303fc3cfebec30800000000000000
+      internalID: 4389865886076385373
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_55
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ef8a7b0904cd7ad50800000000000000
+      internalID: 6748604736501950718
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_56
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 15bd27cff7cb02c60800000000000000
+      internalID: 7791434613233212241
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_57
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 96639f30b55bbeda0800000000000000
+      internalID: -5914434283107699095
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_58
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6e9955fde56aa6d60800000000000000
+      internalID: 7884297024069540326
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_59
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 346
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8e25ef7ec64ad2ba0800000000000000
+      internalID: -6112048331616267544
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_60
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5e0887d62c2700730800000000000000
+      internalID: 3963293851471872229
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_61
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 14d4032e266e8ee20800000000000000
+      internalID: 3380204832717557057
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_62
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4df269fa70489e910800000000000000
+      internalID: 1867168689067274196
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_63
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 65287fad1917a5960800000000000000
+      internalID: 7591504993144242774
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_64
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9d38fc83eb15376d0800000000000000
+      internalID: -2993959449832487975
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_65
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e5e1af903fd89b300800000000000000
+      internalID: 268401727789211230
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_66
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f6482498089a1b690800000000000000
+      internalID: -7588097527618829201
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_67
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 33749f175ed2e7170800000000000000
+      internalID: 8178024436834322227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_68
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a807dc78dcf9e45b0800000000000000
+      internalID: -5382188799565664118
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_69
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 281b36b9b5092c280800000000000000
+      internalID: -9024491980173627006
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_70
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d3f7baf9a990a6760800000000000000
+      internalID: 7451779093146337085
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_71
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 254
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f5f7a47e6b3dbe970800000000000000
+      internalID: 8785348280634212191
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_72
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: aa0bcb6637c678760800000000000000
+      internalID: 7460050550663196842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_73
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f8523fe9953df8b0800000000000000
+      internalID: -5116874666363692811
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_74
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bdb46b798abf241f0800000000000000
+      internalID: -1062009860587631653
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_75
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bd2a16a6ffffde80800000000000000
+      internalID: -8151515365703537227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_76
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 17be9e1de08171430800000000000000
+      internalID: 3753495266366974833
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_77
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77d368f4d247c1220800000000000000
+      internalID: 2457967234593996151
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_78
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 38a60478875ead3e0800000000000000
+      internalID: -2028056376349005181
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_79
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: e871ef2aac5f8dfe0800000000000000
+      internalID: -1163910253008513138
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_80
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 908654c56cd9e77c0800000000000000
+      internalID: -4071643537819211767
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_81
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 29d06b722bd5b4c50800000000000000
+      internalID: 6650512294494473618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_82
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: ee5d8970d94f32300800000000000000
+      internalID: 226293361573156334
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_83
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 162
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6b33c36eb4d30570800000000000000
+      internalID: 8431816841550314349
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_84
+      rect:
+        serializedVersion: 2
+        x: 26
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 8228ac8e9b6235580800000000000000
+      internalID: -8839679063681760728
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_85
+      rect:
+        serializedVersion: 2
+        x: 95
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2555e77e6a7bdb460800000000000000
+      internalID: 7259160101867378002
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_86
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 2f30713a6b429a6d0800000000000000
+      internalID: -2978809311690030094
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_87
+      rect:
+        serializedVersion: 2
+        x: 233
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c126b51b61f259580800000000000000
+      internalID: -8821092520623906276
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_88
+      rect:
+        serializedVersion: 2
+        x: 302
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 054d3fb14346a6180800000000000000
+      internalID: -9121367920315476912
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_89
+      rect:
+        serializedVersion: 2
+        x: 371
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7ee3d6eff2c3f4f00800000000000000
+      internalID: 1103166610558762727
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_90
+      rect:
+        serializedVersion: 2
+        x: 440
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: bf59ef4c769310920800000000000000
+      internalID: 2954705948381189627
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_91
+      rect:
+        serializedVersion: 2
+        x: 509
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d6576af2b8dd881e0800000000000000
+      internalID: -2195261228473485971
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_92
+      rect:
+        serializedVersion: 2
+        x: 578
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 3270d4e1139101890800000000000000
+      internalID: -7489458481564678365
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_93
+      rect:
+        serializedVersion: 2
+        x: 647
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 77f9aab615fe713f0800000000000000
+      internalID: -930011665050984585
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_94
+      rect:
+        serializedVersion: 2
+        x: 716
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5c68190e83e1084d0800000000000000
+      internalID: -3134472111015229755
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: npc_pok_95
+      rect:
+        serializedVersion: 2
+        x: 785
+        y: 70
+        width: 54
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 64e186d718c8a0820800000000000000
+      internalID: 2885272999066869318
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    physicsShape: []
+    bones: []
+    spriteID: 5e97eb03825dee720800000000000000
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+  spritePackingTag: 
+  pSDRemoveMatte: 0
+  pSDShowRemoveMatteOption: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
