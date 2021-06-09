@@ -93,13 +93,15 @@ public class PlayerController : MonoBehaviour
         if (gm.vidas == 0)
         {
             Debug.Log("DIEDDD");
+            transform.position = new Vector3(-5.5f, -2.25f, 0);
             gm.ChangeState(GameManager.GameState.ENDGAME);
             SceneManager.LoadScene("GameOver");
         }
 
         if (gm.star == 5)
         {
-            gm.ChangeState(GameManager.GameState.WINGAME);
+            transform.position = new Vector3(-5.5f, -2.25f, 0);
+            gm.ChangeState(GameManager.GameState.ENDGAME);
             SceneManager.LoadScene("WinOver");
         }
 

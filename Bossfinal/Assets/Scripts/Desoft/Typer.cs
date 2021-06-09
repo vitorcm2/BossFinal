@@ -10,7 +10,7 @@ public class Typer : MonoBehaviour
     public Text wordOutput = null;
 
     private string remainingWord = string.Empty;
-    private string currentWord = "print('hello word')";
+    private string currentWord = "print('hello world')";
     GameManager gm;
     // Start is called before the first frame update
     void Start()

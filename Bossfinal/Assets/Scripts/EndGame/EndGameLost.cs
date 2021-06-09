@@ -19,4 +19,11 @@ public class EndGameLost : MonoBehaviour
         SceneManager.LoadScene("SampleScene");
     }
 
+    public void EndgameWin()
+    {
+        gm.ChangeState(GameManager.GameState.MENU);
+        gm.vidas = 3;
+        SceneManager.LoadScene("SampleScene");
+    }
+
 }

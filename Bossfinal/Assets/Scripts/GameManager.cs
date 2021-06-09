@@ -22,7 +22,7 @@ public class GameManager
 
     public bool gamePaused = false;
 
-    public static Vector3 lastPosition;
+    public static Vector3 lastPosition, lastPositionNPC;
 
     public bool winDani, winCarlinhos, winRaul, winDaniel, winPaulina;
 
@@ -55,7 +55,7 @@ public class GameManager
         TimesUPDani = false;
         TimerInstru = false;
         TimerDesoft = false;
-        lastPosition = new Vector3(3, -1.58f, 0);
+        lastPosition = new Vector3(-5.5f, -2.25f, 0);
         gameState = GameState.MENU;
 
         timeElapsed = initialTime;
@@ -85,6 +85,8 @@ public class GameManager
         winRaul = false;
         winDaniel = false;
         winCarlinhos = false;
+
+        lastPosition = new Vector3(-5.5f, -2.25f, 0);
 
         timeElapsed = initialTime;
         gamePaused = false;

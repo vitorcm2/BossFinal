@@ -15,7 +15,7 @@ public class NPCfollow : MonoBehaviour
     {
         to_follow = true;
         speed = 4.5f;
-        // transform.position = GameManager.lastPosition;
+        transform.position = GameManager.lastPositionNPC;
 
     }
 
@@ -28,7 +28,7 @@ public class NPCfollow : MonoBehaviour
         if (to_follow)
         {
             transform.position = Vector2.MoveTowards(transform.position, target.position, speed * Time.deltaTime);
-
+            GameManager.lastPositionNPC = transform.position;
             if (Mathf.Abs(Input.GetAxisRaw("Horizontal")) == 1)
             {
                 animator.SetBool("isHorizontal", true);
