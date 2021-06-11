@@ -18,7 +18,7 @@ public class Spinner : MonoBehaviour {
 	// Update is called once per frameQ
 	void FixedUpdate () {
         // if (!controle.rodando) return;
-		if (Input.GetKey (KeyCode.Space)) 
+		if (Input.GetKey (KeyCode.X)) 
 		{
 			isStoped = true;
 		}

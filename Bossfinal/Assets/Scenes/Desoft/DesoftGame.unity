@@ -156,8 +156,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -237.6, y: -88.6}
-  m_SizeDelta: {x: 475.1416, y: 177.24443}
+  m_AnchoredPosition: {x: -121.08, y: -42.208}
+  m_SizeDelta: {x: 242.09357, y: 84.4604}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &147073556
 MonoBehaviour:
@@ -429,10 +429,10 @@ RectTransform:
   m_Father: {fileID: 2053478591}
   m_RootOrder: 1
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.4, y: 0.5}
-  m_AnchorMax: {x: 0.4, y: 0.5}
-  m_AnchoredPosition: {x: -176.7, y: -22.3}
-  m_SizeDelta: {x: 405.75452, y: 92.11777}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -145.84999, y: -42.737015}
+  m_SizeDelta: {x: -687.0574, y: -748.0607}
   m_Pivot: {x: 0.4, y: 0.5}
 --- !u!1 &1279189495
 GameObject:
@@ -509,8 +509,8 @@ Transform:
   m_PrefabAsset: {fileID: 0}
   m_GameObject: {fileID: 1279189495}
   m_LocalRotation: {x: 0, y: 0, z: 0, w: 1}
-  m_LocalPosition: {x: 0.02, y: 0.11, z: 0}
-  m_LocalScale: {x: 0.64212805, y: 0.51033556, z: 1}
+  m_LocalPosition: {x: 0.017, y: 0.083, z: 0}
+  m_LocalScale: {x: 0.47982368, y: 0.3783198, z: 1}
   m_Children: []
   m_Father: {fileID: 0}
   m_RootOrder: 4
@@ -547,10 +547,10 @@ RectTransform:
   m_Father: {fileID: 2053478591}
   m_RootOrder: 0
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
-  m_AnchorMin: {x: 0.4, y: 0.5}
-  m_AnchorMax: {x: 0.4, y: 0.5}
-  m_AnchoredPosition: {x: -176.7, y: -22.3}
-  m_SizeDelta: {x: 405.74115, y: 92.07666}
+  m_AnchorMin: {x: 0, y: 0}
+  m_AnchorMax: {x: 1, y: 1}
+  m_AnchoredPosition: {x: -146, y: -42.737}
+  m_SizeDelta: {x: -686.80597, y: -748.0603}
   m_Pivot: {x: 0.4, y: 0.5}
 --- !u!114 &1344597331
 MonoBehaviour:
@@ -850,8 +850,8 @@ RectTransform:
   m_LocalEulerAnglesHint: {x: 0, y: 0, z: 0}
   m_AnchorMin: {x: 1, y: 1}
   m_AnchorMax: {x: 1, y: 1}
-  m_AnchoredPosition: {x: -237.6, y: -88.6}
-  m_SizeDelta: {x: 475.14178, y: 177.24443}
+  m_AnchoredPosition: {x: -121.1, y: -42.2}
+  m_SizeDelta: {x: 242.04572, y: 84.476364}
   m_Pivot: {x: 0.5, y: 0.5}
 --- !u!114 &1904242562
 MonoBehaviour:
@@ -964,7 +964,7 @@ MonoBehaviour:
   m_UiScaleMode: 1
   m_ReferencePixelsPerUnit: 100
   m_ScaleFactor: 1
-  m_ReferenceResolution: {x: 1920, y: 1080}
+  m_ReferenceResolution: {x: 960, y: 800}
   m_ScreenMatchMode: 0
   m_MatchWidthOrHeight: 0
   m_PhysicalUnit: 3
